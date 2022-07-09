@@ -48,7 +48,7 @@ global.socialm = "GitHub: AlfinQwe" //ur github or insta name
 global.location = "Indonesia, Jawa timur, Pasuruan" //ur location
 
 //bot bombdy
-global.botname = "夜刀神 十香" //ur bot name
+global.botname = "時崎 狂三" //ur bot name
 global.websitex = "https://youtube.com/channel/UCI3oeINgi5l4hmbe1vgr5Pg" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker By"
